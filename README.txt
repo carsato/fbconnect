@@ -1,3 +1,10 @@
+-- --
+fbconnect (Drupal 6) updated for facebook php sdk v4
+
+
+
+
+
 -- SUMMARY --
 
 This module roughly acts like the OpenId Drupal 6.x core module :
